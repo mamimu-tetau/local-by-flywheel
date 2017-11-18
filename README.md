@@ -1,7 +1,7 @@
 ### local by flywheel
 
 #### MacでBrowserSyncと一緒にもにょもにょする
-### flywheelで作ったURL（hoge.local）をホストファイルに登録
+##### flywheelで作ったURL（hoge.local）をホストファイルに登録
 flywheelが自動で作ったドメインとは別に登録
 ```
 127.0.0.1 hoge.local
