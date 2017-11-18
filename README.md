@@ -1,11 +1,6 @@
 ### local by flywheel
 
 #### MacでBrowserSyncと一緒にもにょもにょする
-```
-sudo apachectl start
-sudo apachectl stop
-sudo apachectl restart
-```
 ### flywheelで作ったURL（hoge.local）をホストファイルに登録
 flywheelが自動で作ったドメインとは別に登録
 ```
