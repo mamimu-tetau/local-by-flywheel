@@ -13,5 +13,6 @@ fe80::1%lo0 localhost
 ```
 ipv6用のアドレスも追加すると幸せ
 
-git通知テスト
-git通知テスト
+Hostファイル編集アプリ
+https://blog.sou-lab.com/mac-hosts/
+https://www.macupdate.com/app/mac/40003/hosts
