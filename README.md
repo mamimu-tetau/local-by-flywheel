@@ -15,4 +15,4 @@ ipv6用のアドレスも追加すると幸せ
 
 Hostファイル編集アプリ
 https://blog.sou-lab.com/mac-hosts/
-https://www.macupdate.com/app/mac/40003/hosts
+http://permanentmarkers.nl/software.html
